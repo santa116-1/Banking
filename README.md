@@ -5,28 +5,6 @@
 For Demo <br />
 [Banking Platform Website Demo](https://horizon-banking-kohl.vercel.app/) <br />
 
-
-
-
-<br/>
-
-
-### Images of The Banking Platform Website:
-
-#### Home
-![Nextjs Personal Blog Website](public/images/home.png)
-
-#### My Banks
-![Nextjs Personal Blog Website About Page](public/images/bank-accounts.png)
-
-#### Transactions History
-![Next.js Personal Blog Website Contact Page](public/images/transactions.png)
-
-For more Images please check the [project images](https://github.com/mohamedelmougy/horizon-banking/tree/main/public/images) folder from this repo or check the demo link. 
-
-
-
-
 ## Getting Started
 
 ```bash
