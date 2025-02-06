@@ -29,8 +29,6 @@ For more Images please check the [project images](https://github.com/mohamedelmo
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
 npm i
 
